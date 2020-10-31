@@ -1,2 +1,2 @@
 Hello, Git
-Oh Yay y this is reset test
+Oh Yay y
